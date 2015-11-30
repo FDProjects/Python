@@ -1,5 +1,5 @@
 # graphics.py 
-# (c) 2013 by Rance Necaise 
+# (c) 2013 by Rance Necaise
 # http://graphics.necaiseweb.org 
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy of
